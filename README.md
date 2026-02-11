@@ -19,7 +19,7 @@ Completed a self-driven Call Center Analysis project using Excel & Power BI, whe
 
 ✅Built KPI-focused visuals for call trends, agent performance, and service efficiency.
 
-
+✅Built a dynamic Date Table using CALENDARAUTO() for efficient time-based analysis and data modeling.
 
 
 
@@ -33,8 +33,6 @@ Completed a self-driven Call Center Analysis project using Excel & Power BI, whe
 •Tracking answered vs missed calls
 
 •Identifying operational gaps through visuals
-
-
 
 
 
@@ -63,7 +61,13 @@ These insights turn raw call data into clear, actionable insights, helping manag
 Excel | Power BI | Data Modeling | DAX (Basics) | Data Visualization | Analytical Thinking
 
 
-
 📌 **Important:** 
 --
 This is a self-practice project using dummy data. For portfolio and demo purposes only.
+
+
+**Your feedback and revisit are always appreciated😊.**
+
+Thanks & Regards,
+
+Ishika Ghosh
