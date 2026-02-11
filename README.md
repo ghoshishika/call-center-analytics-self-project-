@@ -66,6 +66,11 @@ Excel | Power BI | Data Modeling | DAX (Basics) | Data Visualization | Analytica
 This is a self-practice project using dummy data. For portfolio and demo purposes only.
 
 
+**Click for visual view:**
+
+🔗 [View Full Dashboard Snapshot](https://github.com/ghoshishika/call-center-analytics-self-project-/blob/main/Dashboard%20Snapshot.JPG)
+
+
 **Your feedback and revisit are always appreciated😊.**
 
 Thanks & Regards,
